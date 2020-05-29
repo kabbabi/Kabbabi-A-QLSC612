@@ -1,4 +1,4 @@
-# Assignment for the course QLSC-612 (Brain Hack School 2020 - Week 1/4)
+# Assignment for the course QLSC-612 (BHS2020 - Week 1/4)
 
 ## Description
 
