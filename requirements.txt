@@ -1,1 +1,11 @@
+The analysis runs on a Jupyter Notebook and on Python 3.7
+To run it properly you would need to install Jupyter Notebook : Follow the instructions in https://jupyter.org/install
 
+The analysis notebook requires the following libraries :
+* pandas
+* numpy
+* statsmodels
+* scipy
+* matplotlib.pyplot as plt
+
+Make sur you install them correctly before running the analysis, through the command "pip install " for example
