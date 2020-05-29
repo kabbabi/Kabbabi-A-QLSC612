@@ -1,5 +1,7 @@
-The analysis runs on a Jupyter Notebook and on Python 3.7
-To run it properly you would need to install Jupyter Notebook : Follow the instructions in https://jupyter.org/install
+The analysis "practical/myanalysis.ipynb" runs on a Jupyter Notebook and on Python 3.7
+
+Instructions for installing Python 3.7 : https://www.python.org/downloads/
+Instructions for installing Jupyter Notebook : https://jupyter.org/install
 
 The analysis notebook requires the following libraries :
 * pandas
