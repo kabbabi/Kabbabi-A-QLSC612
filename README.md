@@ -1,15 +1,20 @@
-# Kabbabi-A-QLSC612
+# Assignment for the course QLSC-612 (Brain Hack School 2020 - Week 1/4)
 
-Assignment for the course QLSC-612 following the Brain Hack School 2020 - Week 1/4.
+## Description
 
-The assignment was done in the form of a Jupyter Notebook that is located at :
+This repository contains the assignment for the course QLSC-612 in the context of the Brain Hack School 2020 session.
+I created a notebook  "practical/myanalysis.ipynb" which illustrates the phenomenon of p-hacking by using the dataset "brainsize.csv" in the folder "practical".
 
-practical/myanalysis.ipynb
+The necessary tools and libraries to install are described in "requirements.txt"
+The analysis can be run on a Jupyter Notebook environment once the right installations are done.
 
-### Description
+## Outputs
 
-...
+The notebook "practical/myanalysis.ipynb" generates :
+1. An overview of the content of "brainsize.csv" (head() method)
+2. A summary of the model used in the analysis
+3. A scatterplot (Fig.1)
+4. Two outputs of Pearson's R and p-value
+5. A pair of histograms (Fig.2 - (a) and (b))
 
-### How to use my code
-
-...
+The notebook is subdivided into multiple cells commented all along with markdowns and python comments to describe the method used for p-hacking.
